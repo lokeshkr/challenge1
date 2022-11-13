@@ -2,7 +2,7 @@
 
 A 3 tier environment is a common setup
 
-Reference : https://thecloudgirl.dev/sketchnote.html the link is good walk though on the serivces of Google resources.
+below image shows one of the approach for the 3 tier architecture diagram
 ![image](https://user-images.githubusercontent.com/10312519/201530910-1031ea64-b667-40f9-8c06-05d93aaa29b0.png)
 
 
